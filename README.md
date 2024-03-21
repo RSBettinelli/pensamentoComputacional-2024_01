@@ -19,4 +19,4 @@
 ![alt text](image-1.png)
 
 
-    [**PORTUGOL** linguagem de Programação em PTBR](https://portugol.dev)
+[Portugol C em PTBR](https://portugol.dev)
