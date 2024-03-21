@@ -22,3 +22,12 @@
 
 
 [Portugol C em PTBR](https://portugol.dev)
+
+
+| People | Age | Means | 
+|:----------|:-------------:|------:| 
+| Person0 | 00 | Was this Born? |
+| Person1 | 12 | Young |
+| Person2 | 18 | OK |
+| Person3 | 68 | Elderly |
+| Person4 | 126 | Is this Alive? |
