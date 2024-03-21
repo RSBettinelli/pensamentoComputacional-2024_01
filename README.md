@@ -11,12 +11,12 @@
     - 10
     - ~~11~~
     - 12
-  - ~~*2*~~
+  - *2*
     - 20
     - 21
     - ~~22~~
 
-    ![alt text](image.png)
+![alt text](image-1.png)
 
 
-    [notes1](https://github.dev/RSBettinelli/pensamentoComputacional-2024_01)
+    [**PORTUGOL** linguagem de Programação em PTBR](https://portugol.dev)
