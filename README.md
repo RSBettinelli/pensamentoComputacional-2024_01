@@ -17,3 +17,6 @@
     - ~~22~~
 
     ![alt text](image.png)
+
+
+    [notes1](https://github.dev/RSBettinelli/pensamentoComputacional-2024_01)
