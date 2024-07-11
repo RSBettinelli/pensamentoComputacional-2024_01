@@ -34,22 +34,22 @@
     - [Email *Validation*](2024_06_18/emailValido.py)
     - [Majority](2024_06_18/maioridade.py)
     - [Name *Validation*](2024_06_18/nomeValido.py)
-  <br>
-  - [Evaluative](avaliativo)
-    - [Sale Point](avaliativo/pontoDeVenda)
-    - [**Brute Force** Code](avaliativo/bruteForce.py)
-    - [Test](avaliativo/prova)
-      - [*Installments* **Without Cents**](avaliativo/prova/parcelamento_sem_centavos.py)
-      - [Sum *Odds*](avaliativo/prova/soma_impares.py)
-      - [Site *Validation*](avaliativo/prova/validador_de_site.py)
-      - [Repited Word *Validation*](avaliativo/prova/verifica_prolixo.py)
+  
+## [Evaluative](avaliativo)
+  - [Sale Point](avaliativo/pontoDeVenda)
+  - [**Brute Force** Code](avaliativo/bruteForce.py)
+  - [Test](avaliativo/prova)
+    - [*Installments* **Without Cents**](avaliativo/prova/parcelamento_sem_centavos.py)
+    - [Sum *Odds*](avaliativo/prova/soma_impares.py)
+    - [Site *Validation*](avaliativo/prova/validador_de_site.py)
+    - [Repited Word *Validation*](avaliativo/prova/verifica_prolixo.py)
 
 <br>
 <br>
 
 ![alt text](image-2.png)
 
-[*linkedin*](https://www.linkedin.com/in/rafael-bettinelli/)
+### [*linkedin*](https://www.linkedin.com/in/rafael-bettinelli/)
 
 
 | Place | Age | Career | 
