@@ -28,6 +28,8 @@
 <br>
 <br>
 
+![alt text](image-2.png)
+
 [*linkedin*](https://www.linkedin.com/in/rafael-bettinelli/)
 
 
