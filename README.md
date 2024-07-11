@@ -24,6 +24,25 @@
     - [***Parentheses*** Comparison](2024_05_28/parentheses_RafaelSB.py)
     - [**Prime Numbers**](2024_05_28/primeNumbers_RafaelSB.py)
     - [Sum Pairs](2024_05_28/sumPairs_RafaelSB.py)
+  - [*06/03*](2024_06_03)
+    - [**Import** Exercise](2024_06_03/importExercise)
+    - [Fibonacci](2024_06_03/fibonacci.py)
+  - [*06/04*](2024_06_04)
+    - [Anagram](2024_06_04/anagrama.py)
+    - [Time in **Seconds**](2024_06_04/tempoSeg.py)
+  - [*06/18*](2024_06_18)
+    - [Email *Validation*](2024_06_18/emailValido.py)
+    - [Majority](2024_06_18/maioridade.py)
+    - [Name *Validation*](2024_06_18/nomeValido.py)
+  <br>
+  - [Evaluative](avaliativo)
+    - [Sale Point](avaliativo/pontoDeVenda)
+    - [**Brute Force** Code](avaliativo/bruteForce.py)
+    - [Test](avaliativo/prova)
+      - [*Installments* **Without Cents**](avaliativo/prova/parcelamento_sem_centavos.py)
+      - [Sum *Odds*](avaliativo/prova/soma_impares.py)
+      - [Site *Validation*](avaliativo/prova/validador_de_site.py)
+      - [Repited Word *Validation*](avaliativo/prova/verifica_prolixo.py)
 
 <br>
 <br>
